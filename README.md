@@ -49,3 +49,7 @@ Same as 3.
 
 ### 6. Be creative: Create a more complex component
 You can also find team members and build a small website. If you're a lone wolf you can make your components pretty and get familiar with scss and inline styles.
+
+
+## credits
+(c) [innFactory.de](https://innfactory.de)
